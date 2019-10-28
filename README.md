@@ -1,1 +1,1 @@
-# Natatutorium
+# Natatorium Reserve Privacy policy
