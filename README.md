@@ -16,6 +16,7 @@ You understand and agree that the following information does not apply to this p
   (b) relevant information and data collected by the application and released by you in the application, including but not limited to participation activities, transaction information and evaluation details;
 
   (c) act in violation of the law or the application rules and the measures taken by the application against you.
+  
 2. Information use
 
   (a) the application won't come to any irrelevant third party to provide, sell, rent, share or trade your personal information, unless get your permission in advance, or the third party and the application of this application (including affiliates) alone or together to provide the service for you, and at the end of the service, it will be banned from access to be able to access all the information including its before.
@@ -23,6 +24,7 @@ You understand and agree that the following information does not apply to this p
   (b) the application does not allow any third party to collect, edit, sell or disseminate your personal information by any means. If any user of the application platform engages in the above activities, the application shall have the right to immediately terminate the service agreement with such user upon discovery.
 
   (c) for the purpose of service users, the application may be through the use of your personal information, provide you with the information you have interested in, including but not limited to sent you product and service information, or to share information with this application partners so that they send you information about its products and services, which need your prior consent).
+  
 3. Information disclosure under the following circumstances, the application will disclose your personal information in whole or in part according to your personal will or legal requirements:
 
   (a) to a third party with your prior consent;
@@ -38,6 +40,7 @@ You understand and agree that the following information does not apply to this p
   (f) in a transaction created on the application platform, if either party to the transaction fulfills or partially fulfills the transaction obligation and requests for information disclosure, the application shall have the right to decide to provide the user with the contact information and other necessary information of the other party to facilitate the completion of the transaction or the settlement of the dispute.
 
   (g) other disclosures that the application deems appropriate in accordance with laws, regulations or website policies.
+  
 4. Information storage and exchange the information and data collected by the application about you will be stored on the server of the application and/or its affiliated companies. Such information and data may be transmitted to the country or region where you are or the overseas country where the information and data collected by the application are located and accessed, stored and displayed overseas.
 
 5. The use of cookies
